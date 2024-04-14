@@ -109,3 +109,68 @@
        url('../../lib/gfonts/roboto/latin/300_400_500_700/roboto-v20-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../../lib/gfonts/roboto/latin/300_400_500_700/roboto-v20-latin-700italic.svg#Roboto') format('svg'); /* Legacy iOS */
 }
+
+/* lexend - latin */
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Lexend ExtraLight'), local('Lexend-ExtraLight'),
+       url('../../lib/gfonts/Lexend/static/Lexend-ExtraLight.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lexend Light'), local('Lexend-Light'),
+       url('../../lib/gfonts/Lexend/static/Lexend-Light.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lexend Regular'), local('Lexend-Regular'),
+       url('../../lib/gfonts/Lexend/static/Lexend-Regular.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Lexend Medium'), local('Lexend-Medium'),
+       url('../../lib/gfonts/Lexend/static/Lexend-Medium.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Lexend Medium'), local('Lexend-Medium'),
+       url('../../lib/gfonts/Lexend/static/Lexend-Medium.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Lexend SemiBold'), local('Lexend-SemiBold'),
+       url('../../lib/gfonts/Lexend/static/Lexend-SemiBold.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lexend Bold'), local('Lexend-Bold'),
+       url('../../lib/gfonts/Lexend/static/Lexend-Bold.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Lexend ExtraBold'), local('Lexend-ExtaBold'),
+       url('../../lib/gfonts/Lexend/static/Lexend-ExtraBold.ttf') format('embedded-opentype');
+}
