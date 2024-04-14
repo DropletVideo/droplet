@@ -32153,7 +32153,6 @@
                     query: l.ProfilePageStore.get("author-query"),
                     requestUrl: null
                 },
-                n.state = "Private",
                 n.authorDataLoad = n.authorDataLoad.bind(g(n)),
                 n.onAuthorPreviewItemsCountCallback = n.onAuthorPreviewItemsCountCallback.bind(g(n)),
                 n.getCountFunc = n.getCountFunc.bind(g(n)),
@@ -33305,17 +33304,7 @@
                         linkAttr: {
                             className: u ? "visible-only-in-small" : "visible-only-in-extra-small"
                         }
-                    }),
-                    s.can.register && e.push({
-                        itemType: "link",
-                        icon: "person_add",
-                        iconPos: "left",
-                        text: "Register",
-                        link: a.register,
-                        linkAttr: {
-                            className: u ? "visible-only-in-small" : "visible-only-in-extra-small"
-                        }
-                    })) : (e.push({
+                    })): (e.push({
                         link: a.user.editProfile,
                         icon: "brush",
                         text: "Edit profile"
@@ -33332,7 +33321,7 @@
                     return s.is.admin && e.push({
                         link: a.admin,
                         icon: "admin_panel_settings",
-                        text: "MediaCMS administration"
+                        text: "Staff panel"
                     }),
                     e
                 }()
