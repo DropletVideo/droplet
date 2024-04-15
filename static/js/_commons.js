@@ -31654,7 +31654,7 @@
                 href: t,
                 className: "edit-channel",
                 title: "Add banner"
-            }, "ADD BANNER")
+            }, "Add Banner")
         }
         function A(e) {
             var t = e.link;
@@ -31663,7 +31663,7 @@
                 href: t,
                 className: "edit-channel",
                 title: "Edit banner"
-            }, "EDIT BANNER")
+            }, "Change")
         }
         function T(e) {
             var t = e.link;
@@ -31672,7 +31672,7 @@
                 href: t,
                 className: "edit-profile",
                 title: "Edit profile"
-            }, "EDIT PROFILE")
+            }, "Edit")
         }
         function j(e) {
             var t = h((0,
@@ -31758,11 +31758,6 @@
             }) : null, S ? r.createElement("span", {
                 className: "delete-profile-wrap"
             }, r.createElement(o, {
-                contentRef: n
-            }, r.createElement("button", {
-                className: "delete-profile",
-                title: ""
-            }, "REMOVE PROFILE")), r.createElement(i, {
                 contentRef: n
             }, r.createElement(c.PopupMain, null, r.createElement("div", {
                 className: "popup-message"
