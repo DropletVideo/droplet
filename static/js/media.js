@@ -1294,7 +1294,7 @@
                     e.forEach((function(e) {
                         t.push({
                             id: e.username,
-                            display: e.name + "(@" + e.username + ")"
+                            display: e.name
                         })
                     }
                     )),
@@ -1686,7 +1686,7 @@
                 })))), a.createElement("div", null, a.createElement("span", null, a.createElement("a", {
                     href: e.link,
                     className: "author-banner-name",
-                    title: e.name
+                    title: e.name + "(@" + e.username + ")"
                 }, a.createElement("span", null, e.name))), o.PageStore.get("config-media-item").displayPublishDate && e.published ? a.createElement("span", {
                     className: "author-banner-date"
                 }, "Published on ", (0,
