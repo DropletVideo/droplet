@@ -1689,7 +1689,7 @@
                     title: e.name
                 }, a.createElement("span", null, e.name))), o.PageStore.get("config-media-item").displayPublishDate && e.published ? a.createElement("span", {
                     className: "author-banner-date"
-                }, e.author_name + " | ", (0,
+                }, e.author.username + " | ", (0,
                 m.publishedOnDate)(new Date(e.published))) : null))
             }
             function ce(e) {
