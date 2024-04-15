@@ -1709,9 +1709,9 @@
                 a.createElement("a", {
                     href: t,
                     rel: "nofollow",
-                    title: "Edit media",
+                    title: "Edit",
                     className: "edit-media"
-                }, "EDIT MEDIA")
+                },)
             }
             function me(e) {
                 var t = e.link;
@@ -1810,8 +1810,9 @@
                 }) : null, a.createElement(p, {
                     contentRef: c
                 }, a.createElement("button", {
+                    title: "Delete",
                     className: "remove-media"
-                }, "DELETE MEDIA")), a.createElement(d, {
+                },)), a.createElement(d, {
                     contentRef: c
                 }, a.createElement(F.PopupMain, null, a.createElement("div", {
                     className: "popup-message"
