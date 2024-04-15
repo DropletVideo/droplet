@@ -1727,7 +1727,6 @@
                 var t = (0,
                 B.useUser)().userCan
                   , n = e.description.trim()
-                  , r = !o.PageStore.get("config-enabled").taxonomies.tags || o.PageStore.get("config-enabled").taxonomies.tags.enabled ? se(o.MediaPageStore.get("media-tags")) : []
                   , l = o.PageStore.get("config-options").pages.media.categoriesWithTitle ? [] : !o.PageStore.get("config-enabled").taxonomies.categories || o.PageStore.get("config-enabled").taxonomies.categories.enabled ? se(o.MediaPageStore.get("media-categories")) : []
                   , s = o.MediaPageStore.get("media-summary");
                 s = s ? s.trim() : "";
@@ -1802,9 +1801,6 @@
                         b(!v)
                     }
                 }, v ? "SHOW LESS" : "SHOW MORE") : null, r.length ? a.createElement(ce, {
-                    value: r,
-                    title: 1 < r.length ? "Tags" : "Tag",
-                    id: "tags"
                 }) : null, l.length ? a.createElement(ce, {
                     value: l,
                     title: 1 < l.length ? "Categories" : "Category",
