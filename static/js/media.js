@@ -1686,10 +1686,10 @@
                 })))), a.createElement("div", null, a.createElement("span", null, a.createElement("a", {
                     href: e.link,
                     className: "author-banner-name",
-                    title: e.name + "(@" + e.username + ")"
+                    title: e.name
                 }, a.createElement("span", null, e.name))), o.PageStore.get("config-media-item").displayPublishDate && e.published ? a.createElement("span", {
                     className: "author-banner-date"
-                }, "Published on ", (0,
+                }, e.username + " | ", (0,
                 m.publishedOnDate)(new Date(e.published))) : null))
             }
             function ce(e) {
