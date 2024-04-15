@@ -1727,7 +1727,6 @@
                 var t = (0,
                 B.useUser)().userCan
                   , n = e.description.trim()
-                  , l = o.PageStore.get("config-options").pages.media.categoriesWithTitle ? [] : !o.PageStore.get("config-enabled").taxonomies.categories || o.PageStore.get("config-enabled").taxonomies.categories.enabled ? se(o.MediaPageStore.get("media-categories")) : []
                   , s = o.MediaPageStore.get("media-summary");
                 s = s ? s.trim() : "";
                 var u = oe((0,
@@ -1802,9 +1801,6 @@
                     }
                 }, v ? "SHOW LESS" : "SHOW MORE") : null, r.length ? a.createElement(ce, {
                 }) : null, l.length ? a.createElement(ce, {
-                    value: l,
-                    title: 1 < l.length ? "Categories" : "Category",
-                    id: "categories"
                 }) : null, t.editMedia || t.editSubtitle || t.deleteMedia ? a.createElement("div", {
                     className: "media-author-actions"
                 }, t.editMedia ? a.createElement(de, {
