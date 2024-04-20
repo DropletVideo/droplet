@@ -5394,7 +5394,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -5517,8 +5517,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
@@ -5966,7 +5966,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -6089,8 +6089,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
@@ -6920,7 +6920,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -7043,8 +7043,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
@@ -7529,7 +7529,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -7652,8 +7652,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
@@ -9285,7 +9285,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -9408,8 +9408,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
@@ -11805,7 +11805,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -11928,8 +11928,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
@@ -12622,7 +12622,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -12745,8 +12745,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
@@ -13246,7 +13246,7 @@ body.dark_theme {
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
-  --sidebar-bg-color: #1c1c1c;
+  --sidebar-bg-color: #000000;
   --sidebar-nav-border-color: rgba(255, 255, 255, 0.1);
   --sidebar-nav-item-text-color: #fff;
   --sidebar-nav-item-icon-color: rgb(144, 144, 144);
@@ -13369,8 +13369,8 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
   --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
-  --playlist-page-video-list-bg-color: #1c1c1c;
-  --playlist-page-video-list-item-title-bg-color: #1c1c1c;
+  --playlist-page-video-list-bg-color: #000000;
+  --playlist-page-video-list-item-title-bg-color: #000000;
   --playlist-page-video-list-item-hover-bg-color: #333;
   --playlist-page-video-list-item-title-hover-bg-color: #333;
   --playlist-page-video-list-item-after-bg-color: rgba(255, 255, 255, 0.1);
