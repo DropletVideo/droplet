@@ -4892,7 +4892,7 @@
         }
     },
     771: function(e) {
-        e.exports = "\t\n\v\f\r                　\u2028\u2029\ufeff"
+        e.exports = "\t\n\v\f\r                　\u2028\u2029\ufeff"
     },
     1646: function(e, t, n) {
         "use strict";
@@ -27561,6 +27561,15 @@
                 dateTime: e.dateTime
             }, e.text)))
         }
+        function _(e) {
+            var t = e.link;
+            return t && window.MediaCMS.site.devEnv && (t = "/edit-media.html"),
+            t ? r.createElement("a", {
+                href: t,
+                title: "Edit media",
+                className: "item-edit-link"
+            }, "EDIT MEDIA") : null
+        }
         function C(e) {
             var t = {
                 key: "item-thumb",
@@ -31654,7 +31663,7 @@
                 href: t,
                 className: "edit-channel",
                 title: "Add banner"
-            }, "Add Banner")
+            }, "ADD BANNER")
         }
         function A(e) {
             var t = e.link;
@@ -31663,7 +31672,7 @@
                 href: t,
                 className: "edit-channel",
                 title: "Edit banner"
-            }, "Change")
+            }, "EDIT BANNER")
         }
         function T(e) {
             var t = e.link;
@@ -31672,7 +31681,7 @@
                 href: t,
                 className: "edit-profile",
                 title: "Edit profile"
-            }, "Edit")
+            }, "EDIT PROFILE")
         }
         function j(e) {
             var t = h((0,
@@ -31758,6 +31767,11 @@
             }) : null, S ? r.createElement("span", {
                 className: "delete-profile-wrap"
             }, r.createElement(o, {
+                contentRef: n
+            }, r.createElement("button", {
+                className: "delete-profile",
+                title: ""
+            }, "REMOVE PROFILE")), r.createElement(i, {
                 contentRef: n
             }, r.createElement(c.PopupMain, null, r.createElement("div", {
                 className: "popup-message"
