@@ -405,7 +405,7 @@
                         className: "empty-media"
                     }, o.default.createElement("div", {
                         className: "welcome-title"
-                    }, "Welcome to MediaCMS!"), o.default.createElement("div", {
+                    }, "Welcome to Droplet!!"), o.default.createElement("div", {
                         className: "start-uploading"
                     }, "Start uploading media and sharing your work!"), o.default.createElement("a", {
                         href: e.user.addMedia,
