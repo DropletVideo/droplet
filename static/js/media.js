@@ -3529,7 +3529,7 @@
                     type: "span"
                 }, a.createElement(F.MaterialIcon, {
                     type: "arrow_downward"
-                })), a.createElement("span", null, "DOWNLOAD"))), a.createElement("div", {
+                })), a.createElement("span", null, "Download"))), a.createElement("div", {
                     className: "nav-page-" + l
                 }, a.createElement(r, {
                     contentRef: n
