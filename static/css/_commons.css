@@ -6199,7 +6199,10 @@ a.item-thumb {
   background-position: center;
   -moz-background-size: cover;
   background-size: cover;
-  background-color: var(--item-thumb-bg-color)
+  background-color: var(--item-thumb-bg-color);
+  -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .item-thumb.no-thumb:before {
