@@ -1519,7 +1519,7 @@
                 var t = e.commentsLength;
                 return a.createElement(a.Fragment, null, !i.MemberContext._currentValue.can.readComment || o.MediaPageStore.get("media-data").enable_comments ? null : a.createElement("span", {
                     className: "disabled-comments-msg"
-                }, "Comments are disabled"), i.MemberContext._currentValue.can.readComment && (o.MediaPageStore.get("media-data").enable_comments || i.MemberContext._currentValue.can.editMedia) ? a.createElement("h2", null, t ? 1 < t ? t + " Comments" : t + " " + K : o.MediaPageStore.get("media-data").enable_comments ? "No comment yet" : "") : null)
+                }, "Comments are disabled"), i.MemberContext._currentValue.can.readComment && (o.MediaPageStore.get("media-data").enable_comments || i.MemberContext._currentValue.can.editMedia) ? a.createElement("h2", null, t ? 1 < t ? t + " Comments" : t + " " + K : o.MediaPageStore.get("media-data").enable_comments ? "No comments yet" : "") : null)
             };
             function ae(e) {
                 var t = Y((0,
@@ -1799,7 +1799,7 @@
                     onClick: function() {
                         b(!v)
                     }
-                }, v ? "SHOW LESS" : "SHOW MORE") : null, r.length ? a.createElement(ce, {
+                }, v ? "Show Less" : "Show More") : null, r.length ? a.createElement(ce, {
                 }) : null, l.length ? a.createElement(ce, {
                 }) : null, t.editMedia || t.editSubtitle || t.deleteMedia ? a.createElement("div", {
                     className: "media-author-actions"
@@ -2643,7 +2643,7 @@
                     type: "span"
                 }, a.createElement(F.MaterialIcon, {
                     type: "playlist_add"
-                })), a.createElement("span", null, "SAVE"))), a.createElement(i, {
+                })), a.createElement("span", null, "Playlist"))), a.createElement(i, {
                     contentRef: r
                 }, a.createElement(F.NavigationContentApp, {
                     initPage: s,
@@ -3399,7 +3399,7 @@
                     type: "span"
                 }, a.createElement(F.MaterialIcon, {
                     type: "share"
-                })), a.createElement("span", null, "SHARE"))), a.createElement(i, {
+                })), a.createElement("span", null, "Share"))), a.createElement(i, {
                     contentRef: r,
                     hideCallback: function() {
                         u("shareOptions")
@@ -3440,7 +3440,7 @@
                     type: "span"
                 }, a.createElement(F.MaterialIcon, {
                     type: "arrow_downward"
-                })), a.createElement("span", null, "DOWNLOAD")))
+                })), a.createElement("span", null, "Download")))
             }
             function et(e, t) {
                 return function(e) {
@@ -4341,7 +4341,7 @@
                     onKeyPress: function(e) {
                         0 === e.keyCode && f.PageActions.toggleMediaAutoPlay()
                     }
-                }, "AUTOPLAY", a.createElement("span", {
+                }, "Autoplay", a.createElement("span", {
                     className: "checkbox-switcher-wrap"
                 }, a.createElement("span", {
                     className: "checkbox-switcher"

@@ -988,9 +988,9 @@
     font-size: 12px;
     font-weight: 500;
     line-height: 12px;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .playlist-view .playlist-status .material-icons {
@@ -1672,9 +1672,9 @@
     line-height: 1;
     font-weight: 500;
     text-transform: capitalize;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .media-title-banner .media-labels-area .helper-icon {
@@ -1965,9 +1965,9 @@
     padding-right: 5.5rem;
     border-width: 1px;
     border-style: solid;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .media-title-banner .media-actions>*>*.share .copy-field input[type=text] {
@@ -2179,9 +2179,9 @@
     line-height: normal;
     border-width: 1px;
     border-style: solid;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .report-form .form-field *[readonly] {
@@ -2543,9 +2543,9 @@
     outline: 0;
     border-width: 1px;
     border-style: solid;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .share-embed-inner .on-right-middle .iframe-config {
