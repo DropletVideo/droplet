@@ -1305,9 +1305,9 @@
 .viewer-container,.viewer-info {
     position: relative;
     float: left;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
     width: 100%
 }
 
@@ -1469,6 +1469,9 @@
 
 .viewer-container .player-container {
     position: relative;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
     padding-top: 56.25%
 }
 
@@ -1516,6 +1519,9 @@
 
 .viewer-image-container {
     position: relative;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
     display: block
 }
 
@@ -1977,7 +1983,7 @@
     width: 100%;
     height: 42px;
     padding: 1px 0 1px 16px;
-    font-family: Arial;
+    font-family: inherit;
     font-size: 14px;
     line-height: normal;
     border: 0;
@@ -2177,7 +2183,7 @@
     height: 42px;
     padding: 1px 12px;
     margin: 0;
-    font-family: Arial;
+    font-family: inherit;
     font-size: 14px;
     line-height: normal;
     border-width: 1px;

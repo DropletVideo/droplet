@@ -294,9 +294,9 @@ dialog .qq-dialog-message-selector {
     display: inline-block;
     padding: .75rem 1rem;
     color: #fff;
-    -webkit-border-radius: 1px;
-    -moz-border-radius: 1px;
-    border-radius: 1px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .media-dropzone {
@@ -372,9 +372,9 @@ dialog .qq-dialog-message-selector {
     width: 80px;
     height: 80px;
     overflow: hidden;
-    -webkit-border-radius: 1px;
-    -moz-border-radius: 1px;
-    border-radius: 1px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 @media screen and (min-width: 480px) {
@@ -559,9 +559,9 @@ dialog .qq-dialog-message-selector {
     margin-top: .5rem;
     font-family: Lexend, sans-serif;
     font-size: 13px;
-    -webkit-border-radius: 1px;
-    -moz-border-radius: 1px;
-    border-radius: 1px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .media-upload-item-bottom-actions>*:not(.qq-hide)~* {
@@ -590,9 +590,9 @@ dialog .qq-dialog-message-selector {
     font-size: 12px;
     font-weight: bold;
     border: 0;
-    -webkit-border-radius: 1px;
-    -moz-border-radius: 1px;
-    border-radius: 1px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .retry-media-upload-item:hover {
@@ -616,9 +616,9 @@ dialog .qq-dialog-message-selector {
     display: inline-block;
     margin-bottom: .5rem;
     overflow: hidden;
-    -webkit-border-radius: 1px;
-    -moz-border-radius: 1px;
-    border-radius: 1px
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px
 }
 
 .media-upload-item-progress-bar-container .media-upload-item-progress-bar {
