@@ -688,7 +688,7 @@
   right: 0;
   bottom: 0;
   display: block;
-  border-radius: 1px;
+  border-radius: 10px;
   border: 2px solid rgba(255, 255, 255, .75)
 }
 
@@ -823,7 +823,7 @@
   right: -3px;
   bottom: -3px;
   display: block;
-  border-radius: 1px;
+  border-radius: 10px;
   border: 2px solid rgba(255, 255, 255, .75)
 }
 
@@ -944,7 +944,7 @@
   right: -0.5em;
   bottom: -1em;
   display: block;
-  border-radius: 1px;
+  border-radius: 10px;
   border: 2px solid rgba(255, 255, 255, .75)
 }
 
@@ -1584,7 +1584,7 @@
   background-size: cover;
   background-color: rgba(28, 28, 28, .9);
   border: 2px solid rgba(28, 28, 28, .9);
-  border-radius: 1px
+  border-radius: 10px
 }
 
 .video-js.vjs-mediacms.vjs-enabled-preview-thumb .vjs-preview-thumb .vjs-preview-thumb-time-display {
@@ -4728,9 +4728,9 @@ video::-webkit-media-text-track-display {
 
 .video-js.vjs-mediacms .more-media.inline-slider-small .more-media-duration>* {
   padding: .4545475em .363638em;
-  -webkit-border-radius: 1px;
-  -moz-border-radius: 1px;
-  border-radius: 1px
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px
 }
 
 .video-js.vjs-mediacms .more-media.inline-slider-small .more-media-title {
@@ -9926,9 +9926,9 @@ textarea {
   padding: .57142875em;
   line-height: 1.3;
   color: var(--input-color);
-  -webkit-border-radius: 1px;
-  -moz-border-radius: 1px;
-  border-radius: 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   border-width: 1px;
   border-style: solid;
   border-color: var(--input-border-color);
@@ -10637,9 +10637,9 @@ button {
 .user-action-form-inner *[type=button] {
   border: 0;
   color: #fff;
-  -webkit-border-radius: 1px;
-  -moz-border-radius: 1px;
-  border-radius: 1px
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px
 }
 
 .user-action-form-inner textarea {
@@ -10877,9 +10877,9 @@ button {
   color: #fff;
   border-style: solid;
   border-width: 1px;
-  -webkit-border-radius: 1px;
-  -moz-border-radius: 1px;
-  border-radius: 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   border-color: var(--default-brand-color);
   background-color: var(--default-brand-color)
 }
@@ -13532,9 +13532,9 @@ body {
   width: 100%;
   margin-bottom: 24px;
   word-break: break-word;
-  -webkit-border-radius: 1px;
-  -moz-border-radius: 1px;
-  border-radius: 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   -webkit-box-shadow: 0px 4px 8px 0 rgba(17, 17, 17, .06);
   -moz-box-shadow: 0px 4px 8px 0 rgba(17, 17, 17, .06);
   box-shadow: 0px 4px 8px 0 rgba(17, 17, 17, .06);
@@ -14187,9 +14187,9 @@ body {
   border: 0;
   color: inherit;
   background: var(--user-action-form-inner-bg-color);
-  -webkit-border-radius: 1px;
-  -moz-border-radius: 1px;
-  border-radius: 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   -webkit-box-shadow: 0px 1px 4px 0 rgba(17, 17, 17, .06);
   -moz-box-shadow: 0px 1px 4px 0 rgba(17, 17, 17, .06);
   box-shadow: 0px 1px 4px 0 rgba(17, 17, 17, .06);

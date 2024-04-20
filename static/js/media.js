@@ -1721,7 +1721,7 @@
                     rel: "nofollow",
                     title: "Edit subtitle",
                     className: "edit-subtitle"
-                }, "EDIT SUBTITLE")
+                }, "Subtitles")
             }
             function fe(e) {
                 var t = (0,
@@ -1810,7 +1810,8 @@
                 }) : null, a.createElement(p, {
                     contentRef: c
                 }, a.createElement("button", {
-                    className: "remove-media"
+                    className: "remove-media",
+                    title: "Delete Media"
                 }, "Delete")), a.createElement(d, {
                     contentRef: c
                 }, a.createElement(F.PopupMain, null, a.createElement("div", {
