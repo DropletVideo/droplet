@@ -30322,8 +30322,8 @@
             }, r.createElement("a", {
                 href: n,
                 className: "button-link register-link" + (i ? " hidden-only-in-small" : " hidden-only-in-extra-small"),
-                title: "Register"
-            }, "Register")) : null
+                title: "Sign Up"
+            }, "Sign Up")) : null
         }
         function S(e) {
             var t, n, a = (0,
