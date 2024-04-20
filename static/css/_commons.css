@@ -5384,13 +5384,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -5404,7 +5404,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -5435,13 +5435,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -5494,7 +5494,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -5515,7 +5515,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -5574,7 +5574,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
@@ -5956,13 +5956,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -5976,7 +5976,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -6007,13 +6007,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -6066,7 +6066,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -6087,7 +6087,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -6146,7 +6146,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
@@ -6517,9 +6517,9 @@ a.item-edit-link {
   font-size: .928571429em;
   text-align: center;
   text-decoration: none;
-  -webkit-border-radius: 1px 1px 0 0;
-  -moz-border-radius: 1px 1px 0 0;
-  border-radius: 1px 1px 0 0;
+  -webkit-border-radius: 20px 20px 0 0;
+  -moz-border-radius: 20px 20px 0 0;
+  border-radius: 20px 20px 0 0;
   color: #fff;
   background-color: var(--brand-color, var(--default-brand-color))
 }
@@ -6910,13 +6910,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -6930,7 +6930,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -6961,13 +6961,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -7020,7 +7020,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -7041,7 +7041,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -7100,7 +7100,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
@@ -7519,13 +7519,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -7539,7 +7539,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -7570,13 +7570,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -7629,7 +7629,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -7650,7 +7650,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -7709,7 +7709,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
@@ -7873,7 +7873,7 @@ body {
 
 body.dark_theme .circle-icon-button {
   --txt-color: rgba(255, 255, 255, 0.5);
-  --bg-color: #272727;
+  --bg-color: #000000;
   --bg-focus-color: rgba(255, 255, 255, 0.14);
   --bg-active-color: rgba(255, 255, 255, 0.34)
 }
@@ -8100,12 +8100,12 @@ button.circle-icon-button:active>* {
   margin: 12px;
   color: #f1f1f1;
   background-color: #323232;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
-  -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
-  -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  -webkit-box-shadow: 0 20px 5px 0 rgba(0, 0, 0, .26);
+  -moz-box-shadow: 0 20px 5px 0 rgba(0, 0, 0, .26);
+  box-shadow: 0 20px 5px 0 rgba(0, 0, 0, .26);
   -webkit-transition: opacity 500ms linear;
   -o-transition: opacity 500ms linear;
   -moz-transition: opacity 500ms linear;
@@ -8465,9 +8465,9 @@ button.thumbnail.circle-icon-button:active {
 
 .thumbnail img {
   vertical-align: inherit;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%
 }
 
 .search-field-wrap input[type=text],
@@ -8548,9 +8548,9 @@ button.thumbnail.circle-icon-button:active {
   padding: 0 10px;
   font-size: 16.52px;
   border-width: 1px;
-  -webkit-border-radius: 2px 0 0 2px;
-  -moz-border-radius: 2px 0 0 2px;
-  border-radius: 2px 0 0 2px
+  -webkit-border-radius: 20px 0 0 20px;
+  -moz-border-radius: 20px 0 0 20px;
+  border-radius: 20px 0 0 20px
 }
 
 .search-field-wrap button[type=submit] {
@@ -8561,9 +8561,9 @@ button.thumbnail.circle-icon-button:active {
   width: 64px;
   padding: 0;
   border-width: 1px 1px 1px 0;
-  -webkit-border-radius: 0 2px 2px 0;
-  -moz-border-radius: 0 2px 2px 0;
-  border-radius: 0 2px 2px 0
+  -webkit-border-radius: 0 20px 20px 0;
+  -moz-border-radius: 0 20px 20px 0;
+  border-radius: 0 20px 20px 0
 }
 
 .search-field-wrap button[type=submit] .material-icons {
@@ -9275,13 +9275,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -9295,7 +9295,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -9326,13 +9326,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -9385,7 +9385,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -9406,7 +9406,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -9465,7 +9465,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
@@ -11795,13 +11795,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -11815,7 +11815,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -11846,13 +11846,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -11905,7 +11905,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -11926,7 +11926,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -11985,7 +11985,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
@@ -12612,13 +12612,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -12632,7 +12632,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -12663,13 +12663,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -12722,7 +12722,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -12743,7 +12743,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -12802,7 +12802,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
@@ -13236,13 +13236,13 @@ body {
 
 body.dark_theme {
   --body-text-color: rgba(255, 255, 255, 0.88);
-  --body-bg-color: #121212;
+  --body-bg-color: #000000;
   --hr-color: #2a2a2a;
   --dotted-outline-color: rgba(255, 255, 255, 0.4);
   --input-color: hsla(0, 0%, 100%, 0.88);
   --input-bg-color: hsla(0, 0%, 0%, 0.55);
   --input-border-color: hsl(0, 0%, 19%);
-  --header-bg-color: #272727;
+  --header-bg-color: #000000;
   --header-circle-button-color: #fff;
   --header-popup-menu-color: #fff;
   --header-popup-menu-icon-color: rgb(144, 144, 144);
@@ -13256,7 +13256,7 @@ body.dark_theme {
   --nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --in-popup-nav-menu-item-hover-bg-color: rgba(255, 255, 255, 0.1);
   --search-field-input-text-color: rgba(255, 255, 255, 0.88);
-  --search-field-input-bg-color: #121212;
+  --search-field-input-bg-color: #000000;
   --search-field-input-border-color: #303030;
   --search-field-submit-text-color: rgba(255, 255, 255, 0.5);
   --search-field-submit-bg-color: rgba(255, 255, 255, 0.08);
@@ -13287,13 +13287,13 @@ body.dark_theme {
   --comment-actions-reply-button-hover-text-color: rgba(255, 255, 255, 0.74);
   --comment-actions-cancel-removal-button-text-color: rgba(255, 255, 255, 0.5);
   --comment-actions-cancel-removal-button-hover-text-color: rgba(255, 255, 255, 0.74);
-  --item-bg-color: #121212;
+  --item-bg-color: #000000;
   --item-title-text-color: rgba(255, 255, 255, 0.88);
   --item-thumb-bg-color: var(--sidebar-bg-color);
   --item-meta-text-color: #888;
   --item-meta-link-text-color: var(--item-text-color);
   --item-meta-link-hover-text-color: rgba(255, 255, 255, 0.74);
-  --profile-page-item-content-title-bg-color: #121212;
+  --profile-page-item-content-title-bg-color: #000000;
   --playlist-item-main-view-full-link-text-color: rgb(170, 170, 170);
   --playlist-item-main-view-full-link-hover-text-color: #fff;
   --item-list-load-more-text-color: #888;
@@ -13346,7 +13346,7 @@ body.dark_theme {
   --add-media-page-qq-gallery-upload-button-focus-text-color: rgba(255, 255, 255, 0.704);
   --playlist-page-bg-color: #1a1a1a;
   --playlist-page-details-text-color: rgb(170, 170, 170);
-  --playlist-page-thumb-bg-color: #272727;
+  --playlist-page-thumb-bg-color: #000000;
   --playlist-page-title-link-text-color: #fff;
   --playlist-page-actions-circle-icon-text-color: #1a1a1a;
   --playlist-page-actions-circle-icon-bg-color: inherit;
@@ -13367,7 +13367,7 @@ body.dark_theme {
   --playlist-page-author-edit-playlist-form-wrap-border-color: rgba(255, 255, 255, 0.1);
   --playlist-page-author-edit-playlist-form-wrap-title-circle-icon-hover-text-color: rgba(255, 255, 255, 0.88);
   --playlist-page-author-edit-playlist-author-thumb-text-color: #fff;
-  --playlist-page-author-edit-playlist-author-thumb-bg-color: #272727;
+  --playlist-page-author-edit-playlist-author-thumb-bg-color: #000000;
   --playlist-page-details-bg-color: #252525;
   --playlist-page-video-list-bg-color: #1c1c1c;
   --playlist-page-video-list-item-title-bg-color: #1c1c1c;
@@ -13426,7 +13426,7 @@ body.dark_theme {
   --user-action-form-inner-title-border-bottom-color: var(--sidebar-nav-border-color);
   --user-action-form-inner-input-border-color: #303030;
   --user-action-form-inner-input-text-color: rgba(255, 255, 255, 0.88);
-  --user-action-form-inner-input-bg-color: #121212
+  --user-action-form-inner-input-bg-color: #000000
 }
 
 body {
