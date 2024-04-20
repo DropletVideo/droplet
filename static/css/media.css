@@ -1300,14 +1300,14 @@
 
 .viewer-section.theater-mode .video-js.vjs-mediacms {
     padding: 0;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px
 }
 
 .viewer-container,.viewer-info {
     position: relative;
     float: left;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
     width: 100%
 }
 

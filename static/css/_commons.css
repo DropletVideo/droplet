@@ -6200,9 +6200,9 @@ a.item-thumb {
   -moz-background-size: cover;
   background-size: cover;
   background-color: var(--item-thumb-bg-color);
-  -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px
+  -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px
 }
 
 .item-thumb.no-thumb:before {
