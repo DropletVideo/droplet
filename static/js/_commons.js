@@ -31813,7 +31813,7 @@
                 onQueryChange: e.onQueryChange
             })))
 
-            if (e.author.advancedUser == true)
+            if (e.author.advancedUser)
             {
                 r.createElement("i", {
                     className: "material-icons",
