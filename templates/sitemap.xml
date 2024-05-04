@@ -41,10 +41,6 @@
 		<changefreq>monthly</changefreq>
 	</url>
 	<url>
-		<loc>{{ FRONTEND_HOST }}/debug</loc>
-		<changefreq>monthly</changefreq>
-	</url>
-	<url>
 		<loc>{{ FRONTEND_HOST }}/tos</loc>
 		<changefreq>monthly</changefreq>
 	</url>
