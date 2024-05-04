@@ -1,12 +1,20 @@
 // Web Browser
-document.getElementById("Browser").innerHTML = toString(navigator.appName + navigator.appVersion);
+document.getElementById("Browser").innerText = toString(navigator.appName + navigator.appVersion);
 
 // Opewrating System
-document.getElementById("OS").innerHTML = toString(navigator.platform);
+document.getElementById("OS").innerText = toString(navigator.platform);
 
 // User Agent
-document.getElementById("UserAgent").innerHTML = toString(navigator.platform);
+document.getElementById("UserAgent").innerText = toString(navigator.platform);
 
 // Other Options
-document.getElementById("Cookies").innerHTML = toString(navigator.cookieEnabled);
-document.getElementById("Media").innerHTML = toString(navigator.mediaCapabilities);
+document.getElementById("Cookies").innerText = toString(navigator.cookieEnabled);
+document.getElementById("Media").innerText = toString(navigator.mediaCapabilities);
+
+// Server
+import { spawn } from 'child_process';
+var command = spawn('cat /proc/version');
+
+command.uname.on('kernel', function(kernel) {
+    document.getElementById("ServerOS").innerText = toString(kernel);
+});
