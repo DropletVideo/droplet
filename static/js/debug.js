@@ -15,6 +15,6 @@ document.getElementById("p5").innerHTML = toString(navigator.mediaCapabilities);
 import { spawn } from 'child_process';
 var command = spawn('cat /proc/version');
 
-command.uname.on('data', function(kernel) {
+command.uname.on('kernel', function(kernel) {
     document.getElementById("p6").innerHTML = toString(kernel);
 });
