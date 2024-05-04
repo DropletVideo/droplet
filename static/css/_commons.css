@@ -489,7 +489,7 @@
   color: #eee;
   padding-bottom: .25em;
   margin-bottom: .5em;
-  border-bottom: 1px solid rgba(255, 255, 255, .2)
+  border-bottom: 20px solid rgba(0, 0, 0, 0.2)
 }
 
 .video-js.vjs-mediacms .vjs-settings-panel .vjs-setting-panel-title>*:first-child {
