@@ -30295,7 +30295,7 @@
                 href: n.user.addMedia,
                 title: "Upload media"
             }, r.createElement(u.MaterialIcon, {
-                type: "video_call"
+                type: "upload"
             }), r.createElement("span", {
                 className: "hidden-txt"
             }, "Upload media"))) : null
@@ -30649,7 +30649,7 @@
                 var e = [];
                 return a || (n.addMedia && (e.push({
                     link: f.user.addMedia,
-                    icon: "video_call",
+                    icon: "upload",
                     text: "Upload media",
                     className: "nav-item-upload-media"
                 }),
@@ -32094,8 +32094,8 @@
                     className: "button-link"
                 }, r.createElement("i", {
                     className: "material-icons",
-                    "data-icon": "video_call"
-                }), "UPLOAD MEDIA"))
+                    "data-icon": "upload"
+                }), "Upload Media"))
             }
             ))
         }
@@ -33266,7 +33266,7 @@
                 top: (r = [],
                 s.is.anonymous || (s.can.addMedia && (r.push({
                     link: a.user.addMedia,
-                    icon: "video_call",
+                    icon: "upload",
                     text: "Upload media",
                     itemAttr: {
                         className: "visible-only-in-small"
