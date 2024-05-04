@@ -31805,7 +31805,7 @@
             }, r.createElement("div", null, e.author.thumbnail_url ? r.createElement("img", {
                 src: e.author.thumbnail_url,
                 alt: ""
-            }) : null), r.createElement("div", null, e.author.name ? r.createElement("h1", null, e.author.name) : null, E ? r.createElement(T, {
+            }) : null), r.createElement("div", null, e.author.name ? h1.createElement("h1", null, e.author.name) : null, E ? r.createElement(T, {
                 link: s.ProfilePageStore.get("author-data").edit_url
             }) : null))) : null, r.createElement(C, {
                 ref: p,
@@ -31815,10 +31815,11 @@
 
             if (e.author.advancedUser)
             {
-                r.createElement("i", {
+                vb.createElement("i", {
                     className: "material-icons",
                     "data-icon": "verified"
                 })
+                vb.after(h1)
             }
 
         }
