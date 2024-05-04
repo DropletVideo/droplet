@@ -31819,7 +31819,7 @@
                     className: "material-icons",
                     "data-icon": "verified"
                 })
-                vb.after("h1")
+                vb.after(".profile-info h1")
             }
 
         }
