@@ -31811,17 +31811,7 @@
                 ref: p,
                 type: e.type,
                 onQueryChange: e.onQueryChange
-            })))
-
-            if (e.isTrusted == true)
-            {
-                r.createElement("vb", {
-                    className: "material-icons",
-                    "data-icon": "verified"
-                })
-            }
-
-        }
+            })))}
         C.propTypes = {
             type: o().string.isRequired,
             onQueryChange: o().func
