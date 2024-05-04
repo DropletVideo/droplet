@@ -31813,7 +31813,7 @@
                 onQueryChange: e.onQueryChange
             })))
 
-            if (e.author.advancedUser)
+            if (e.author.advancedUser == true)
             {
                 vb.createElement("verified_badge", {
                     className: "material-icons",
