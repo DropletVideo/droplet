@@ -10,11 +10,3 @@ document.getElementById("UserAgent").innerHTML = toString(navigator.platform);
 // Other Options
 document.getElementById("Cookies").innerHTML = toString(navigator.cookieEnabled);
 document.getElementById("Media").innerHTML = toString(navigator.mediaCapabilities);
-
-// Server
-import { spawn } from 'child_process';
-var command = spawn('cat /proc/version');
-
-command.uname.on('kernel', function(kernel) {
-    document.getElementById("ServerOS").innerHTML = toString(kernel);
-});
