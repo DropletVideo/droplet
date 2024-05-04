@@ -73,6 +73,12 @@ def about(request):
     context = {}
     return render(request, "cms/about.html", context)
 
+def debug(request):
+    """Debug view"""
+
+    context = {}
+    return render(request, "cms/debug.html", context)
+
 
 @login_required
 def add_subtitle(request):
