@@ -1,5 +1,5 @@
 // Web Browser
-document.querySelector('#Browser').innerText = toString(navigator.appName + navigator.appVersion);
+document.querySelector('#Browser').innerText = toString(navigator.appName);
 
 // Opewrating System
 document.querySelector('#OS').innerText = toString(navigator.platform);
