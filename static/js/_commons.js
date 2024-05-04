@@ -31812,6 +31812,15 @@
                 type: e.type,
                 onQueryChange: e.onQueryChange
             })))
+
+            if (e.author.isTrusted == true)
+            {
+                r.createElement("i", {
+                    className: "material-icons",
+                    "data-icon": "verified"
+                })
+            }
+
         }
         C.propTypes = {
             type: o().string.isRequired,
