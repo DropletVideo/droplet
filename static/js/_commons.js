@@ -31815,7 +31815,7 @@
 
             if (e.author.advancedUser)
             {
-                vb.createElement("i", {
+                vb.createElement("verified_badge", {
                     className: "material-icons",
                     "data-icon": "verified"
                 })
