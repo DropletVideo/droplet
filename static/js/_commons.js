@@ -31813,13 +31813,13 @@
                 onQueryChange: e.onQueryChange
             })))
 
-            if (e.author.advancedUser == true)
+            if (!0 === e.author.advancedUser)
             {
-                vb.createElement("verified_badge", {
+                vb.createElement("vb", {
                     className: "material-icons",
                     "data-icon": "verified"
                 })
-                vb.after("profile-info-inner")
+                vb.after("h1")
             }
 
         }
