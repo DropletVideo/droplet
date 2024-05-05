@@ -11,7 +11,6 @@ urlpatterns = [
     re_path(r"^about", views.about, name="about"),
     re_path(r"^add_subtitle", views.add_subtitle, name="add_subtitle"),
     re_path(r"^categories$", views.categories, name="categories"),
-    re_path(r"^contact$", views.contact, name="contact"),
     re_path(r"^edit", views.edit_media, name="edit_media"),
     re_path(r"^embed", views.embed_media, name="get_embed"),
     re_path(r"^featured$", views.featured_media),
