@@ -27561,15 +27561,6 @@
                 dateTime: e.dateTime
             }, e.text)))
         }
-        function _(e) {
-            var t = e.link;
-            return t && window.MediaCMS.site.devEnv && (t = "/edit-media.html"),
-            t ? r.createElement("a", {
-                href: t,
-                title: "Edit media",
-                className: "item-edit-link"
-            }, "EDIT MEDIA") : null
-        }
         function C(e) {
             var t = {
                 key: "item-thumb",
