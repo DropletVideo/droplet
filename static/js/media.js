@@ -3719,10 +3719,10 @@
                           , n = "";
                         switch (t) {
                         case "private":
-                            n = "The site admins have to make its access public";
+                            n = "The media's author has to make its access public/unlisted.";
                             break;
                         case "unlisted":
-                            n = "The site admins have to make it appear on listings"
+                            n = "The media's author has to make it appear on listings."
                         }
                         return a.createElement("div", {
                             className: "media-title-banner"
