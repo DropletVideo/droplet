@@ -27561,6 +27561,15 @@
                 dateTime: e.dateTime
             }, e.text)))
         }
+        function _(e) {
+            var t = e.link;
+            return t && window.MediaCMS.site.devEnv && (t = "/edit-media.html"),
+            t ? r.createElement("a", {
+                href: t,
+                title: "Edit media",
+                className: "item-edit-link"
+            }, "EDIT MEDIA") : null
+        }
         function C(e) {
             var t = {
                 key: "item-thumb",
@@ -30638,6 +30647,18 @@
                 items: m(e)
             }) : null), function() {
                 var e = [];
+                return a || (n.addMedia && (e.push({
+                    link: f.user.addMedia,
+                    icon: "upload",
+                    text: "Upload media",
+                    className: "nav-item-upload-media"
+                }),
+                c.media && e.push({
+                    link: c.media,
+                    icon: "video_library",
+                    text: "My media",
+                    className: "nav-item-my-media"
+                })),
                 n.saveMedia && e.push({
                     link: c.playlists,
                     icon: "playlist_play",
