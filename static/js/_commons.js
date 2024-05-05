@@ -30697,19 +30697,19 @@
                 var e = [];
                 return n.manageMedia && e.push({
                     link: f.manage.media,
-                    icon: "miscellaneous_services",
+                    icon: "settings",
                     text: "Manage media",
                     className: "nav-item-manage-media"
                 }),
                 n.manageUsers && e.push({
                     link: f.manage.users,
-                    icon: "miscellaneous_services",
+                    icon: "settings",
                     text: "Manage users",
                     className: "nav-item-manage-users"
                 }),
                 n.manageComments && e.push({
                     link: f.manage.comments,
-                    icon: "miscellaneous_services",
+                    icon: "settings",
                     text: "Manage comments",
                     className: "nav-item-manage-comments"
                 }),
