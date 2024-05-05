@@ -27,7 +27,7 @@ from cms.custom_pagination import FastPaginationWithoutCount
 from cms.permissions import IsAuthorizedToAdd, IsUserOrEditor, user_allowed_to_upload
 from users.models import User
 
-from .forms import MediaForm, SubtitleForm
+from .forms import ContactForm, MediaForm, SubtitleForm
 from .helpers import clean_query, get_alphanumeric_only, produce_ffmpeg_commands
 from .methods import (
     check_comment_for_mention,
