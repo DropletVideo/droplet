@@ -44,10 +44,6 @@
 		<loc>{{ FRONTEND_HOST }}/tos</loc>
 		<changefreq>monthly</changefreq>
 	</url>
-	<url>
-		<loc>{{ FRONTEND_HOST }}/contact</loc>
-		<changefreq>never</changefreq>
-	</url>
 	{% for media_object in media %}
 	<url>
 		<loc>{{ FRONTEND_HOST}}/view?m={{ media_object.friendly_token }}</loc>

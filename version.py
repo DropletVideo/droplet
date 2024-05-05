@@ -1,1 +1,1 @@
-VERSION = "3.0.0_droplet-beta"
+VERSION = "3.0.0 (Beta V2)"
